@@ -32,7 +32,7 @@ I specialize in MERN Stack development as a full stack developer and have a stro
 
 
 # 📊 GitHub Stats:
-[![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajcjustin)](https://github.com/anuraghazra/github-readme-stats)
+[![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajcjustin)](https://github.com/dheerajcjustin)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dheerajcjustin&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajcjustin&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

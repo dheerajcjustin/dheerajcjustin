@@ -19,7 +19,7 @@ I specialize in MERN Stack development as a full stack developer and have a stro
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working  on a  MERN Stack project 
 
-🧠 I'm currently learning Type Script and AWS
+🧠 I'm currently learning Docker and AWS 
 
 💬 Lets Debate  about Inheritance vs Composition 
 

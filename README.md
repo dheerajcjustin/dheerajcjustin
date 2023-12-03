@@ -3,8 +3,7 @@
 
 
 ##  🍃 About Me
-I specialize in MERN Stack development as a full stack developer and have a strong grasp of Redux, creating restful web services, and designing databases. Specifically, I have extensive experience working with MongoDB, React with Redux, and Node. I also have the ability to quickly learn and adapt to new technologies and work environments.
-
+Full stack developer with one year of experience with a solid understanding of front-end and back-end technologies, web services, and Database design. With High clarity in Node.js, React.js, Next.js, Nest.js MongoDB, Java Script,  Type script  Express.js combined with a strong foundation in the data structure, styling with CSS, and Proficiency in adopting new technologies and environments,
 ## 🔗 Links
 <!--- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) --->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-c-justine-0883a521b/)

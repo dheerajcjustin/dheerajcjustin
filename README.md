@@ -22,7 +22,8 @@ Full stack developer with one year of experience with a solid understanding of f
 
 💬 Lets Debate  about Inheritance vs Composition 
 
-📫 How to reach  by dheerajcjusetin@gmail.com
+📫 How to reach  by dheerajcjofficial@gmail.com
+
 
 
 
